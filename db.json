@@ -1,6 +1,7 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
+    "users": [
+      { "id": "projas", "username":"projas", "nombre": "Patricio Rojas", "password":"EB2DC21A8134C6DF8616383638E43C2F" },
+      { "id": "garce", "username": "garce", "nombre": "Guillermo Arce", "password":"8A15AEBA12988523F15D7178504A951E" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
